@@ -52,6 +52,7 @@
     padding: 30px;
     box-shadow: 0 0.25rem 1rem 0 #282e3e14;
     margin-top: 20px;
+    margin-bottom: 40px;
 }
 .quiz_question p{
     line-height: 1.6;
@@ -75,4 +76,16 @@
     bottom: 0;
     left: 0;
     width: 100%;
+}
+.footer_content{
+    height: 70px;
+    align-items: center;
+    padding: 0 50px;
+}
+.footer_content p{
+    font-size: 13px;
+}
+.footer_content button{
+    padding: 12px 20px; 
+    font-weight: 600;  
 }
